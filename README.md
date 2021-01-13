@@ -7,14 +7,14 @@ This app is a PWA (Progressive Web Application) which allows users to track thei
 You can simply open the Heroku link to begin using the app!
 Upon opening the link, you will find the deployed app. From here we can begin!
 Desktop users can open this app, navigate to the search bar on their web browser, they will find a small circle with a plus symbol inside, upon clicking - the user can install this app to their computer for said offline or online usage!  
-Note: You can use this on mobile, web browser or as a dedicated app.  
+Note: You can use this on mobile, web browser.
 
 ## Credits
-Matthew Pollicito, GitHub - https://github.com/mpollicito
+Matthew Pollicito, GitHub - <https://github.com/mpollicito>
 
-GitHub Repository Link: <https://github.com/mpollicito/pwa-budget-hw18>
+GitHub Repository Link: <https://github.com/mpollicito/pwa-budget>
 
-Heroku Link: <https://pwa-fitness-tracker-hw.herokuapp.com/>
+Heroku Link: <https://pwa-mattp-budget.herokuapp.com/>
 
 ## License
 MIT: <https://rem.mit-license.org>
